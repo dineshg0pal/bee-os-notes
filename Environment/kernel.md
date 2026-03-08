@@ -1,4 +1,4 @@
-#Kernel:
+# Kernel:
 
 - It is a core of an OS
 
