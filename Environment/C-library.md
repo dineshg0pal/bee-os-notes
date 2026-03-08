@@ -5,7 +5,7 @@
 - Example: printf(), strlen(), malloc()
 
 
-#Anology
+# Anology
 
 -For everytime building a **screw-driver** from scratch, taking from **tool-box** and using
 
