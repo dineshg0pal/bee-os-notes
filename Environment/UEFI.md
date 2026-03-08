@@ -11,8 +11,8 @@
 
 >UEFI
  ↓
-Bootloader
+>Bootloader
  ↓
-Kernel
+>Kernel
  ↓
-Operating System
+>Operating System
