@@ -9,10 +9,4 @@
 
 ## Example Boot Chain
 
-UEFI
- ↓
-Bootloader
- ↓
-Kernel
- ↓
-Operating System
+>UEFI ---> Bootloader ---> Kernel ---> Operating System
